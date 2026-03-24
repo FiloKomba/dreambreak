@@ -1,10 +1,12 @@
 /* affichage.css*/
 body {
   background-color: #662866;
+    color: #FFFFFF;
 }
-p {
-  color: #FFFFFF;
+
+h1 {
+  font-size: 64px;
 }
 a {
-  color: #F54927;
+  color: #F54927
 }
